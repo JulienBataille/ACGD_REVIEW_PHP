@@ -1,0 +1,4 @@
+# Option + FollowSymlinks
+# RewriteEngine = on 
+
+# RewriteRule ^movies. [a-z]$ /movies.php?slug=$1 [L]
