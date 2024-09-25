@@ -20,7 +20,7 @@ $header->execute();
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-collapse" id="navbarSupportedContent">
           <form class="d-flex column-gap-2 align-items-center ms-auto order-lg-2" role="search">
             <input class="form-control thin" type="search" placeholder="Search" aria-label="Search">
             <a href="index.php"><i class="fa-solid fa-magnifying-glass" width= 20px height=100%></i></a>
